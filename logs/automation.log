@@ -1,0 +1,51 @@
+12:59:20.917 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:00:07.458 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:01:30.574 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:01:37.264 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:02:00.326 [main] INFO  testCases.TC002_LoginTest - ****** Catch *******
+13:02:38.177 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:02:53.366 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:02:55.407 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:02:58.594 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:02:58.814 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:02:58.820 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:02:58.820 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+13:43:33.928 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:43:40.831 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:43:43.095 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:43:45.077 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:43:45.199 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:43:45.212 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:43:45.212 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+13:54:46.859 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+13:54:50.454 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+13:54:52.449 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+13:54:54.174 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+13:54:54.251 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+13:54:54.256 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+13:54:54.256 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+23:05:58.101 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+23:06:02.901 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+23:06:07.308 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+23:06:09.915 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+23:06:10.181 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+23:06:10.186 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+23:06:10.186 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+23:08:59.175 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+23:09:03.954 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+23:09:06.608 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+23:09:08.334 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+23:09:08.419 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+23:09:08.425 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+23:09:08.425 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+23:10:00.756 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
+23:10:03.842 [main] INFO  testCases.TC002_LoginTest - ****** Starting TC002_LoginTest *******
+23:10:06.048 [main] INFO  testCases.TC002_LoginTest - ****** HomePage *******
+23:10:08.167 [main] INFO  testCases.TC002_LoginTest - ****** LoginPage *******
+23:10:08.299 [main] INFO  testCases.TC002_LoginTest - ****** MyAccountPage *******
+23:10:08.304 [main] INFO  testCases.TC002_LoginTest - ****** Assert *******
+23:10:08.304 [main] INFO  testCases.TC002_LoginTest - ****** Finished TC002_LoginTest *******
+22:51:28.215 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\Software Files\eclipse-workspace\06_selenium\OpenCartv0.1_TestNGHybridFramework_byPavan\master.xml
+
+22:52:13.895 [main] INFO  testCases.TC002_LoginTest - =====CHROME=====
